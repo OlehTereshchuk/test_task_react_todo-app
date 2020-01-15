@@ -1,2 +1,2 @@
 # React ToDo App
-- [DEMO LINK](https://OlehTereshchuk.github.io/<repo_name>/)
+- [DEMO LINK](https://OlehTereshchuk.github.io/test_task_react_todo-app/)
