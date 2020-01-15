@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react_todo-app/static/css/main.79f1fe82.chunk.css",
-    "main.js": "/react_todo-app/static/js/main.86e5b0ff.chunk.js",
-    "main.js.map": "/react_todo-app/static/js/main.86e5b0ff.chunk.js.map",
-    "runtime-main.js": "/react_todo-app/static/js/runtime-main.a3745d74.js",
-    "runtime-main.js.map": "/react_todo-app/static/js/runtime-main.a3745d74.js.map",
-    "static/js/2.b9753c7f.chunk.js": "/react_todo-app/static/js/2.b9753c7f.chunk.js",
-    "static/js/2.b9753c7f.chunk.js.map": "/react_todo-app/static/js/2.b9753c7f.chunk.js.map",
-    "index.html": "/react_todo-app/index.html",
-    "precache-manifest.b67efc382079253c6cf1dd29891576d0.js": "/react_todo-app/precache-manifest.b67efc382079253c6cf1dd29891576d0.js",
-    "service-worker.js": "/react_todo-app/service-worker.js",
-    "static/css/main.79f1fe82.chunk.css.map": "/react_todo-app/static/css/main.79f1fe82.chunk.css.map",
-    "static/js/2.b9753c7f.chunk.js.LICENSE": "/react_todo-app/static/js/2.b9753c7f.chunk.js.LICENSE",
-    "static/media/index.css": "/react_todo-app/static/media/edit.c4a18e05.svg"
+    "main.css": "/test_task_react_todo-app/static/css/main.28384612.chunk.css",
+    "main.js": "/test_task_react_todo-app/static/js/main.86e5b0ff.chunk.js",
+    "main.js.map": "/test_task_react_todo-app/static/js/main.86e5b0ff.chunk.js.map",
+    "runtime-main.js": "/test_task_react_todo-app/static/js/runtime-main.55bc2e64.js",
+    "runtime-main.js.map": "/test_task_react_todo-app/static/js/runtime-main.55bc2e64.js.map",
+    "static/js/2.b9753c7f.chunk.js": "/test_task_react_todo-app/static/js/2.b9753c7f.chunk.js",
+    "static/js/2.b9753c7f.chunk.js.map": "/test_task_react_todo-app/static/js/2.b9753c7f.chunk.js.map",
+    "index.html": "/test_task_react_todo-app/index.html",
+    "precache-manifest.ee86e49ab2a1315c58f3ebd6acb71e09.js": "/test_task_react_todo-app/precache-manifest.ee86e49ab2a1315c58f3ebd6acb71e09.js",
+    "service-worker.js": "/test_task_react_todo-app/service-worker.js",
+    "static/css/main.28384612.chunk.css.map": "/test_task_react_todo-app/static/css/main.28384612.chunk.css.map",
+    "static/js/2.b9753c7f.chunk.js.LICENSE": "/test_task_react_todo-app/static/js/2.b9753c7f.chunk.js.LICENSE",
+    "static/media/index.css": "/test_task_react_todo-app/static/media/edit.c4a18e05.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3745d74.js",
+    "static/js/runtime-main.55bc2e64.js",
     "static/js/2.b9753c7f.chunk.js",
-    "static/css/main.79f1fe82.chunk.css",
+    "static/css/main.28384612.chunk.css",
     "static/js/main.86e5b0ff.chunk.js"
   ]
 }
